@@ -9,7 +9,7 @@ make links, embed images, and so on.
 
 ## making a separately purchased domain link to it ##
 
-we startes, using github's directions, but eventually gave up, and
+we started using github's directions, but eventually gave up, and
 switched to instructions specific to our domain host, 
 [google domains](https://domains.google.com)
 
