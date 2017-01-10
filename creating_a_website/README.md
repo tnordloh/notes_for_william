@@ -11,12 +11,12 @@ make links, embed images, and so on.
 
 we started using github's directions, but eventually gave up, and
 switched to instructions specific to our domain host, 
-[google domains](https://domains.google.com)
+[google domains](https://domains.google.com).
 
-[here is a link, describing the process](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/)
+[here is a link, describing the process](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/).
 
 
-finally, here is a reference to the [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), to help format the site
+finally, here is a reference to the [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), to help format the site.
 
 
 # TODO #
